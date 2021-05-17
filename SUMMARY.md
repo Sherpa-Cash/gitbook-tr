@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Giriş](README.md)
+* [Sherpa Cash'e Giriş](README.md)
 * [Yol Haritası](roadmap.md)
 
 ## Nasıl Çalışır?

@@ -1,8 +1,8 @@
 ---
-description: Avalanche ağı üzerinde özel ve anonim işlemler
+description: Avalanche ağı üzerinde özel işlemler
 ---
 
-# Giriş
+# Sherpa Cash'e Giriş
 
 ## Sherpa Cash nedir?
 
