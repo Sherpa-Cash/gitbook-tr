@@ -32,4 +32,5 @@
 * [Telegram](https://t.me/sherpa_cash)
 * [Telegram \(Türkiye Kanalı\)](https://t.me/sherpa_cash_turkey)
 * [Discord](https://discord.com/invite/8bWeGSB4Zx)
+* [İngilizce Dökümanlar](https://sherpa-cash.gitbook.io/sherpa-cash/)
 
