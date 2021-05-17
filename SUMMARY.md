@@ -13,6 +13,7 @@
 
 * [Token Ekonomisi](tokenomics-1/tokenomics/README.md)
   * [Airdrop](tokenomics-1/tokenomics/airdrop.md)
+  * [ICO](tokenomics-1/tokenomics/ico.md)
   * [Madencilik](tokenomics-1/tokenomics/anonymity-mining.md)
 
 ## Güvenlik <a id="security"></a>
