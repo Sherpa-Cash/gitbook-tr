@@ -6,8 +6,6 @@ description: ICO ve Whitelist ile ilgili bilgiler
 
 Sherpa Cash'in ilk token satışı, [Avalaunch](https://avalaunch.app/) adlı Launchpad üzerinde gerçekleşecektir.
 
-Sherpa Token'ın Adresi\(C-chain\): 0x6c0ec8f309f56e1d4784454bbad416efd09ed068
-
 Detaylar eklenecektir.
 
 ## Whitelist
